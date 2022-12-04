@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                                       Hey;👋 <I'm NOMIN SENDINU/>
 🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻I'm deadly passionate about AI and Machine learning paradigm and looking forward to collaborating with the industry<br>👨🏼‍💼I can describe myself professionally as a WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any assistance related to Artificial Intelligence and Machine learning<br>🧑‍🚒I'm hoping to collaborate on AI-related projects in the future.
 
 
