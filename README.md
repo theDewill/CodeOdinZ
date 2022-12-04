@@ -1,8 +1,8 @@
 #                                                       Hey;👋 <I'm NOMIN SENDINU/>
-🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻I'm deadly passionate about AI and Machine learning paradigm and looking forward to collaborate with the industry ASAP<br>👨🏼‍💼this person can be professionally portraid as a WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any teachings and tips from experts specially related to AI and Machine learning<br>🧑‍🚒Currently living with a hope of collaborating to AI-related projects in the future.
+🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻I'm deadly passionate about AI and Machine learning paradigm and looking forward to collaborate with the software industry soon<br>👨🏼‍💼this person can be professionally portraid as a WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any teachings and tips from experts specially related to AI and Machine learning<br>🧑‍🚒Currently living with a hope of collaborating to AI powered world in the future.
 
 
-## 🌐 Socials:
+## 🦧 My Social Appearances:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/nomin.sendinu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_novolfz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nomin-sendinu-03804a199/) 
 
 # 🥷🏻SUPER POWERS:
