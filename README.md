@@ -1,5 +1,5 @@
 #                                                       Hola;👋 <I'm NOMIN SENDINU/>
-🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻I'm deadly passionate about AI and Machine learning paradigm and looking forward to collaborate with the software industry soon<br>👨🏼‍💼Me as a object has the carrier attribute as the WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any teachings and tips from experts specially related to AI and Machine learning<br>🧑‍🚒Currently refining my Methods to collaborate on creating AI powered world.
+🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻Deadly passionate about AI and Machine learning paradigm and looking forward to collaborate with the software industry soon<br>👨🏼‍💼Me as a object has the carrier attribute as the WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any teachings and tips from experts specially related to AI and Machine learning<br>🧑‍🚒Currently refining my Methods to collaborate on creating AI powered world.
 
 
 ## 🦧 Social Class Instances:
