@@ -1,5 +1,5 @@
 #                                                       Hola;👋 <I'm NOMIN SENDINU/>
-🎓I'm a Computer Science Undergraduate student at the University of Plymouth, UK.<br>👨‍💻Deadly passionate about AI and Machine learning paradigm and looking forward to collaborate with the software industry soon<br>👨🏼‍💼Me as a object has the carrier attribute as the WEB/Android full-stack developer<br>🙋🏻‍♂️I Would love to have any teachings and tips from experts specially related to AI and Machine learning<br>🧑‍🚒Currently refining my Methods to collaborate on creating AI powered world.
+🎓I'm just a individual who loves Coding..<br>🧑🏻‍💻I'am a WEB/Android full-stack developer,I'm continuously refining my skills to create impactful and innovative applications.<br>😁I have a strong passion for AI and Machine Learning Paradigm which is I'm currently studying and I'm excited to learn and apply these concepts in real-world projects Soon.<br>I'm eager to learn from experienced professionals and gain insights with much love.<br><br>|---HAPPY CODING Then...----|
 
 
 ## 🦧 Social Class Instances:
