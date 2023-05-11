@@ -1,5 +1,5 @@
 #                                                       Hola;👋 <I'm NOMIN SENDINU/>
-🎓|♥️--<b>CODING</b>--♥️<br>🧑🏻‍💻|Backend Dev..<br>|AI/ML--->🤍<br>|Love to hear and learn from experts.
+|♥️--<b>CODING</b>--♥️<br>|Backend Dev..<br>|AI/ML--->🤍<br>|Love to hear and learn from experts.
 
 
 ## 🦧 Social Class Instances:
