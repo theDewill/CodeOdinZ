@@ -1,5 +1,5 @@
 #                                                       Hola;👋 <I'm NOMIN SENDINU/>
-🎓I'm just a individual who loves Coding..<br>🧑🏻‍💻I'am a WEB/Android full-stack developer,I'm continuously refining my skills to create impactful and innovative applications.<br>😁I have a strong passion for AI and Machine Learning Paradigm which is I'm currently studying and I'm excited to learn and apply these concepts in real-world projects Soon.<br>I'm eager to learn from experienced professionals and gain insights with much love.<br><br>|---HAPPY CODING Then...----|
+🎓|♥️--<b>CODING</b>--♥️<br>🧑🏻‍💻|Backend Dev..<br>|AI/ML--->🤍<br>|Love to hear and learn from experts.
 
 
 ## 🦧 Social Class Instances:
