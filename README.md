@@ -1,4 +1,4 @@
-#                                                       Hola;👋 <I'm NOMIN SENDINU/>
+#                                                       HI👋;
 |♥️--<b>CODING</b>--♥️<br>|Backend Dev..[JS/Go]<br>|AI/ML [Python] 🤍<br>|Love to hear and learn from experts.
 
 
